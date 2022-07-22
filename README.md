@@ -1,6 +1,6 @@
 <h1>
   Hello there! :)
-  <https://media.giphy.com/media/XaMTNZkRahZ7ysPMci/giphy.gif>
+  <img src="https://media.giphy.com/media/XaMTNZkRahZ7ysPMci/giphy.gif">
 </h1>
 
 <div id="header" align="center">
