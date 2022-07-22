@@ -1,6 +1,6 @@
 <h1>
   Hello there! :)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div id="header" align="center">
@@ -15,6 +15,9 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
     <img src="https://komarev.com/ghpvc/?username=spaceowlsoul&style=flat-square&color=blue" alt=""/>
+  <a href="t.me/yulia_tustova">
+    <img src="https://img.shields.io/badge/Telegram-darkblue?style=for-the-badge&logo=telegram&logoColor=white%22%20alt=%22Telegram%20Badge">
+  </a>
 </div>
 
 
