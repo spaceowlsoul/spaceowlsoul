@@ -12,8 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="yuliasunny007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=EmaillogoColor=white" alt="Email Badge"/>
-    
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
     <img src="https://komarev.com/ghpvc/?username=spaceowlsoul&style=flat-square&color=blue" alt=""/>
 </div>
 
