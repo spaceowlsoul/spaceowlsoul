@@ -23,3 +23,4 @@
   <img src="https://komarev.com/ghpvc/?username=spaceowlsoul&style=flat-square&color=blue" alt=""/>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=spaceowlsoul&theme=dark&background=000000)](https://git.io/streak-stats)
