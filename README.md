@@ -23,7 +23,7 @@
   <img src="https://komarev.com/ghpvc/?username=spaceowlsoul&style=flat-square&color=blue" alt="Views counter" height="23"/>
 </div>
 
-# 🔥 A bit of statistics:
+# 📊 A bit of statistics:
 
 <div id="statistics" align=center>
 
