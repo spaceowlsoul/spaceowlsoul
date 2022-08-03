@@ -22,3 +22,13 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=spaceowlsoul&style=flat-square&color=blue" alt="Views counter" height="23"/>
 </div>
+
+# 🔥 A bit of statistics:
+
+<div id="statistics" align=center>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=spaceowlsoul&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaceowlsoul&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
