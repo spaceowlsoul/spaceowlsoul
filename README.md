@@ -13,7 +13,7 @@
 
 ## Hi, I'm Yulia and I'm so glad to see you on my page! 
 
-### Here you can find some projects of mine which I develop because of my fascination of the IT world. 
+### Here you can find some projects of mine which I develop because of my fascination with the IT world. 
 ### I'm always grateful for feedback, advice and any recommendation!
 
 ### Have a good one! :blush: 
