@@ -7,6 +7,19 @@
  <img src="https://media.giphy.com/media/XaMTNZkRahZ7ysPMci/giphy.gif">
 </div>
 
+***
+
+# About me
+
+## Hi, I'm Yulia and I'm so glad to see you on my page! 
+
+### Here you can find some projects of mine which I develop because of my fascination of the IT world. 
+### I'm always grateful for feedback, advice and any recommendation!
+
+### Have a good one! :blush: 
+
+***
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yulia-tustova/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
